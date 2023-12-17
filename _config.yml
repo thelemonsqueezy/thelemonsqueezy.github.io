@@ -16,7 +16,7 @@
 title: lemon squeezy 
 email: eloisey.lemonsqeezy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  freshly picked reviews.
+  freshly picked.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thelemonsqueezy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/website-favicon.png
