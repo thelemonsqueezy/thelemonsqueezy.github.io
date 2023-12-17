@@ -16,9 +16,9 @@
 title: lemon sqeezy 
 email: eloisey.lemonsqeezy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  freshly picked film and book reviews.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thelemonsqeezy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  freshly picked film reviews.
+baseurl: "/hitchens" # the subpath of your site, e.g. /blog
+url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: 
 github_username:  thelemonsqueezy
@@ -43,6 +43,3 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
-
-contact_note: >
-  Reach us by email.
