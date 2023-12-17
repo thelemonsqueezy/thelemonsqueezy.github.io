@@ -163,10 +163,10 @@ layout: post
 The [JSON Feed spec](https://jsonfeed.org/version/1) states that feeds should include an icon. To add your icon, add the following line in your site's `_config.yml` file:
 
 ```
-feed_icon: /assets/images/icon-512.png
+feed_icon: /assets/images/website-favicon.png
 ```
 
-Then, replace the `/assets/images/icon-512.png` file with your own image.
+Then, replace the `/assets/images/website-favicon.png` file with your own image.
 
 ### Credits
 
