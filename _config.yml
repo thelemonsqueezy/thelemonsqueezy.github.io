@@ -21,7 +21,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thelemonsqueezy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/website-favicon.png
 twitter_username: 
-github_username:  thelemonsqueezy
+github_username: thelemonsqueezy
+
+hide_search: true
+
 
 # Build settings
 markdown: kramdown
@@ -43,3 +46,4 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+
