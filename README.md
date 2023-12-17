@@ -1,3 +1,20 @@
+dependencies
+
+- ruby 2.7.5p203 (2021-11-24 revision f69aeb8314) [x86_64-linux]
+- jekyll 4.3.2
+- Bundler version 2.4.22
+
+commands
+
+- bundler _2.4.22_ install
+- bundler _2.4.22_ exec jekyll serve
+- bin/deploy --user
+
+
+
+
+
+
 ---
 layout: page
 title: "Hitchens"
