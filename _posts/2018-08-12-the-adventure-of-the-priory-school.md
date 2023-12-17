@@ -1,5 +1,5 @@
 ---
-title: The Adventure of the Priory School
+title: Review 7
 author: Arthur Conan Doyle
 category: literature
 layout: post

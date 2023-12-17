@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Review 1"
 layout: post
-author: "Arthur Conan Doyle"
+author: "Lemon Squeezy"
 categories: literature
 ---
 

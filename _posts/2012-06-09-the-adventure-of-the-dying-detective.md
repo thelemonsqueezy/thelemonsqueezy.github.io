@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Adventure of the Dying Detective"
+title: "Review 2"
 author: "Arthur Conan Doyle"
 categories: literature
 author: Arthur Conan Doyle
