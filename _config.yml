@@ -22,9 +22,8 @@ url: "https://thelemonsqueezy.github.io" # the base hostname & protocol for your
 icon: /assets/images/website-favicon.png
 twitter_username: 
 github_username: thelemonsqueezy
-
+home_image: /assets/images/lemon_img.png
 hide_search: true
-
 
 
 # Build settings
