@@ -6,9 +6,21 @@ dependencies
 - gem install bundler -v 2.4.22
 
 commands
-- 'bundler \_2.4.22_ install
-- bundler \_2.4.22_ exec jekyll serve
+- open terminal
+- cd ~/Documents/to/lemonsqueezy folder (can always use tab to check what each folder contains)
+- bundler \_2.4.22_ install
+- bundler \_2.4.22_ exec jekyll serve (use local IP to show local website - and changes made)
+
+VS code
+- make changes, should show on local IP address
+- when happy, check changes, stage all changes, commit staged, write commit message and save the file and exit that tab, sync changes
+
+back to terminal
+- ctrl C to cancel local server
 - bin/deploy --user
+- press y
+- enter github username: thelemonsqueezy
+- enter PAT code (ctrl SHIFT V)
 
 
 
