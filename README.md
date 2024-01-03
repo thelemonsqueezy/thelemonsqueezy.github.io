@@ -7,7 +7,7 @@ dependencies
 
 commands
 - 'bundler \_2.4.22_ install
-- bundler __2.4.22__ exec jekyll serve
+- bundler \_2.4.22_ exec jekyll serve
 - bin/deploy --user
 
 
