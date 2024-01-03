@@ -6,7 +6,7 @@ dependencies
 - gem install bundler -v 2.4.22
 
 commands
-- 'bundler __2.4.22__ install
+- 'bundler \_2.4.22_ install
 - bundler __2.4.22__ exec jekyll serve
 - bin/deploy --user
 
