@@ -8,7 +8,7 @@ dependencies
 commands
 - open terminal
 - cd ~/Documents/to/lemonsqueezy folder (can always use tab to check what each folder contains)
-- bundler \_2.4.22_ install
+- bundler \_2.4.22_ install (this only needs to be done once not every time)
 - bundler \_2.4.22_ exec jekyll serve (use local IP to show local website - and changes made)
 
 VS code
