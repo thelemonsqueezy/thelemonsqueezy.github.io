@@ -2,7 +2,7 @@
 layout: post
 title: Lie With Me
 subtitle: A brief summary of the film goes here, perhaps a short one liner something like that
-author: Eloise Saville
+author: Eloise 
 categories: film
 rating: 5
 image: '../../../../assets/images/lie-with-me.jpg'
