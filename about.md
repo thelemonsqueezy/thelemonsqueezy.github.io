@@ -20,7 +20,7 @@ Or so says the legend of The Lemon Squeezy.
 So follow the citronella torches, swan-dive with me through the sherbert haze of my thoughts, and chug the complexities straight from the Jif-bottle-teat of my mind. We’ll drizzle a little zing to make the easiest and breeziest of slip ‘n’ slides, with a warm lemon-scented plunge pool to rinse you off.  
 
 
-Pucker up,
+<br/>Pucker up,
   
 <br />Eloisey Lemon Squeezy
 
