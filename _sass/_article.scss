@@ -113,3 +113,39 @@
   /* Set height as desired */
   height: 400px;
 }
+
+@media (min-width: 720px) and (max-width: 920px) {
+  .responsive-iframe-container {
+    /* Adjust size and/or positioning for smaller screens */
+    padding-bottom: 60%;
+  }
+}
+
+
+
+
+@media (min-width: 520px) and (max-width: 720px) {
+  .responsive-iframe-container {
+    /* Adjust size and/or positioning for smaller screens */
+    padding-bottom: 80%;
+  }
+}
+
+
+@media (min-width: 420px) and (max-width: 520px) {
+  .responsive-iframe-container {
+    /* Adjust size and/or positioning for smaller screens */
+    padding-bottom: 100%;
+  }
+}
+
+
+@media (min-width: 220px) and (max-width: 420px) {
+  .responsive-iframe-container {
+    /* Adjust size and/or positioning for smaller screens */
+    padding-bottom: 350px;
+  }
+}
+
+
+
