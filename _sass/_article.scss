@@ -85,3 +85,31 @@
 .subtitle {
   font-weight: bold;
 }
+
+
+
+.responsive-iframe-container {
+  position: relative;
+  /* Maintain the aspect ratio for 16:9 videos */
+  padding-bottom: 46.25%;
+  height: 0;
+  overflow: hidden;
+  /* Center the container */
+  margin-left: auto;
+  margin-right: auto;
+  /* Set a max-width to match the video's width or 100% if it needs to be fluid */
+  max-width: 560px; /* Adjust this value based on your design needs */
+}
+
+.responsive-iframe-container iframe {
+  position: absolute;
+  top: 0;
+  /* Centering the iframe horizontally */
+  left: 50%;
+  /* Adjust width back to 100% to fill the container */
+  width: 88.5%;
+  /* Transform to perfectly center the iframe */
+  transform: translateX(-50%);
+  /* Set height as desired */
+  height: 400px;
+}
