@@ -132,7 +132,7 @@
 }
 
 
-@media (min-width: 420px) and (max-width: 520px) {
+@media (min-width: 425px) and (max-width: 520px) {
   .responsive-iframe-container {
     /* Adjust size and/or positioning for smaller screens */
     padding-bottom: 100%;
@@ -140,12 +140,25 @@
 }
 
 
-@media (min-width: 220px) and (max-width: 420px) {
+@media (min-width: 380px) and (max-width: 425px) {
   .responsive-iframe-container {
     /* Adjust size and/or positioning for smaller screens */
-    padding-bottom: 350px;
+    padding-bottom: 110%;
   }
 }
 
+@media (min-width: 355px) and (max-width: 380px) {
+  .responsive-iframe-container {
+    /* Adjust size and/or positioning for smaller screens */
+    padding-bottom: 120%;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 355px) {
+  .responsive-iframe-container {
+    /* Adjust size and/or positioning for smaller screens */
+    padding-bottom: 150%;
+  }
+}
 
 
