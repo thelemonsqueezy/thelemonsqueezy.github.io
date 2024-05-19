@@ -3,7 +3,7 @@ title: Last Night in Soho
 subtitle: Spoiler alert&#58; it’s not a breakdown but still feels quite a lot like a breakdown
 author: Eloise 
 category: film
-layout: post
+layout: review
 rating: 1
 image: '../../../../assets/images/last-night-in-soho2.jpg'
 
