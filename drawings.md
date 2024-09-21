@@ -1,5 +1,0 @@
----
-layout: drawings
-title: Drawings
----
-
