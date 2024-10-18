@@ -1,38 +1,121 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed/index.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit: 15 %}
-      {% unless post.draft %}
+    <title>lemon squeezy</title>
+    <description>freshly picked</description>
+    <link>https://thelemonsqueezy.github.io/</link>
+    <atom:link href="https://thelemonsqueezy.github.io/feed/index.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Oct 2024 11:09:16 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2024 11:09:16 +0100</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      
         <item>
-          {% if post.title != "" %}
-            <title>{{ post.title | xml_escape }}</title>
-          {% endif %}
-          <author>{{ site.email }} ({{ site.title }})</author>
+          
+            <title>Sul Sul - Transcript</title>
+          
+          <author>eloisey.lemonsqeezy@gmail.com (lemon squeezy)</author>
           <description>
-            {{ post.content | xml_escape }}
+            &lt;p&gt;I was sure there was a ladder when I jumped in, she thought, as she started comparing the tiled walls towering above her to flat shiny everests. She’s been slowly realising what a dangerous pastime “swimming” really is; submerging oneself in a foreign and unsurvivable landscape not suited to her silly oxygen-hungry lungs. If she had managed to climb out after a few minutes, this thought would have been quickly forgotten and she’d be cannon-balling back in the pool tomorrow for her daily laps, but she’s been treading water for 3 hours now. She notices a beetle on its back careening past her on a wave from her thrashing body, and sees that her and that turtling little pest are in the same, unfortunately metaphorical, boat.&lt;/p&gt;
+
+&lt;p&gt;Like everyone else, she and her wife moved here when the city was hit by a monster attack that triggered the worst nuclear disaster since the tornado blitz the week before. Though many were understandably left feeling displaced, they instead shared a wide-eyed excitement about the possibilities of their new future and couldn’t help feeling giddy in their move to this strange town.&lt;/p&gt;
+
+&lt;p&gt;The early days in their run-down but cosy bungalow were spent endlessly dancing to samba records and jumping merrily on the sofa. The bottom-of-the-range oven relentlessly burnt their toaster pastries, but they would just laugh and sigh at the paltriness of their non-existent problems.&lt;/p&gt;
+
+&lt;p&gt;They made friends with the neighbours and the maid and the boy who delivers the newspapers, and got slacker jobs to pay their meagre bills. The fruits of motherlode never reached this dusty place but they felt truly happy in its simplicity.&lt;/p&gt;
+
+&lt;p&gt;It was when the sofa caught fire and the record player got stolen by a mime in the night that their warm feelings of belonging began to whittle. Each night would bring fresh fears of another creeping scoundrel, each toaster pastry fears of wretched flames. The phantom ring of sirens and the sleep deprivation that came with it coaxed the pang of blame into their minds, and so the first cracks shot between them.&lt;/p&gt;
+
+&lt;p&gt;As she sculls, her body grows weak and her legs start to feel like anchors dropped at the deep end pulling her down. She’s so hungry she can picture the enormous bowl of cereal she made for her and her wife this morning, droplets of condensation running down the side of the ceramic as it remains untouched on the kitchen counter. Panic overloads her mind with thoughts of a shower, a bed, a conversation, the cereal again; flicking past each dangerously-low basic need like a spinning merry-go-round, kind of like the spin when you change from outfit to outfit, she thought momentarily before returning to the rolodex.&lt;/p&gt;
+
+&lt;p&gt;As the morning alarm clock shrilled them awake ever-earlier each morning, the repetition bore a deeper tread in their now cyclical and uneventful days, and as their growing resentments had found a home amongst their worn-out furniture, their young vibrant selves shrank into two small pixelated specs in their memories. Instead of their meaty late-night conversations about love and life, her wife would spend hour after hour talking to herself in the mirror. If only they could find themselves in each other the way they used to. Her wife’s signature wolf whistle, goose, woohoo treatment seemed like a lifetime ago.&lt;/p&gt;
+
+&lt;p&gt;It was when their albeit rather neglected tween got taken by the social services lady that these relatively common cracks ripped into an irreparable tectonic fault line between them. The violent crevasse of grief tore itself through the bungalow like a bolt of lightning, and she felt the happiness they once shared base jump down into the abyss, never to return. She could see in her wife’s eyes when they lay upon her the pain that their shared memories conjured, and sometimes she swore to herself that she could see a broken engagement ring rigorously spinning above her own head.&lt;/p&gt;
+
+&lt;p&gt;And yet, as if flipping a switch, the sound of her wife’s laughter echoed through the house whenever they had company. Even if it was only the maid, the sound of their giggling and scuffling would ring through the bungalow like their old samba records while she was left to sit in the chill of the chasm. She didn’t know why they even employed the maid anymore, because while she clocked out well after normal working hours, the bed was not once made. And why is the hot tub always bubbling, she thought.&lt;/p&gt;
+
+&lt;p&gt;There isn’t any grass in this town, it’s just dry earth. Initially this resonated with their childhood fancies of living as maverick cowboys ransacking the Wild West and taking no prisoners. Dreams of galloping across a canyon in the scorching heat with their trusty steed beneath their saddle, their woman in their arms and the thrill of escaping the past within just an inch of their lives. These ideas distracted them from the small garden they’d left behind in the city. They had had a lake, humble in size of course but with a weeping willow and lily pads, and a bench swing that they would sit on together. They had sprinklers and chrysanthemums, and bumble bees and peonies. The only thing that grows in StrangeTown is the green cloud of flies around last night’s dinner that her wife didn’t eat and the maid didn’t clean.&lt;/p&gt;
+
+&lt;p&gt;She must be hallucinating now because from the water she sees fireworks go off through their bedroom window. The room goes dark and the only light is the azure glow from the pool and the faint moonlight across the plains. She sees that mangy stray dog root through their bins and she cries desperately for help. It looks up at her startled, but after realising she can’t shoo it away continues its rummaging. Her arms are starting to fill with acid and she can feel it whoosh around her body with each movement. She tries to save energy by floating on her back as still as possible, maybe she can hold out until the newspaper delivery boy comes by in the morning. Then she remembers that the newspaper delivery boy stopped coming because they kept letting their newspapers go mouldy in the front garden, arguably a job for a maid she always thought.&lt;/p&gt;
+
+&lt;p&gt;Despite all of this, despite everything that has been lost and endured since the move, she is only now in these final minutes understanding the true catastrophe that that damned nuclear disaster really was. Without it, she’d still have the love of her life and she’d still have a future to share with her. Oh and the tween they coparented for a while of course, whatever their name was. She would still have someone who would have at least noticed that she’s been missing for hours now, sinking.&lt;/p&gt;
+
+&lt;p&gt;Her body, and more importantly her broken heart, can’t bear it another moment, so she lets go. The tug of a warm memory beckons her. Maybe she’ll find her wife looking at her lovingly from their seat under the willow. The sting of the water in her eyes pushes tears out, and it’s actually nice. Like when you go to sleep after you’ve been crying. Everything blurs and she starts to gulp it all down. As the water swallows her whole she sees that fateful hooded figure looming above and she hopes she’s going home.&lt;/p&gt;
+
           </description>
-          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-          <link>{{ post.url | absolute_url }}</link>
-          <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
-          {% for tag in post.tags %}
-          <category>{{ tag | xml_escape }}</category>
-          {% endfor %}
-          {% for cat in post.categories %}
-          <category>{{ cat | xml_escape }}</category>
-          {% endfor %}
+          <pubDate>Fri, 10 May 2024 00:00:00 +0100</pubDate>
+          <link>https://thelemonsqueezy.github.io/stories/2024/05/10/sul-sul-transcript.html</link>
+          <guid isPermaLink="true">https://thelemonsqueezy.github.io/stories/2024/05/10/sul-sul-transcript.html</guid>
+          
+          
+          <category>Stories</category>
+          
         </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+        <item>
+          
+            <title>The Squirrel Incident</title>
+          
+          <author>eloisey.lemonsqeezy@gmail.com (lemon squeezy)</author>
+          <description>
+            
+
+          </description>
+          <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+          <link>https://thelemonsqueezy.github.io/video/2024/02/12/the-squirrel-incident.html</link>
+          <guid isPermaLink="true">https://thelemonsqueezy.github.io/video/2024/02/12/the-squirrel-incident.html</guid>
+          
+          
+          <category>video</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>The Squirrel Incident - Transcript</title>
+          
+          <author>eloisey.lemonsqeezy@gmail.com (lemon squeezy)</author>
+          <description>
+            &lt;p&gt;So I’m test riding a route on my bicycle with the intention of taking a group of friends on it the following weekend. This course would be ideal because it has a mid-point of one of the ‘Cadence Clubhouses’. Cadence Clubhouses are the cycle cafes in shipping containers scattered around the South Downs. You’ll see a congregation of Rapha-clad, lycra heads there with strings of mozzarella hanging from their mud-laden chin to their toastie.&lt;/p&gt;
+
+&lt;p&gt;The weekend before this I’d led some friends on a ride and was excited to take them out again, so I was testing the route for them. I shouldn’t have been so optimistic as I later found out that they each kept pretending to need a wee so that they could stop for a breather. The thing is if they cycled a bit faster they could have taken that breath in my slipstream!&lt;/p&gt;
+
+&lt;p&gt;Anyway, I’m following the course I’d set on my Garmin and naturally I’m zoning in and out. It could be the repetitive motion of cycling, the at-times monotonous landscape or a general tendency to lose focus that often leads my mind to wander when I’m on my bike. In this particular moment let’s say I was imagining spear-heading a tight peloton and whooshing past a wide-eyed child, making them spin on the spot and changing the course of their life forever.&lt;/p&gt;
+
+&lt;p&gt;I zone back in and my pesky Garmin has taken me on a dual carriageway again and it’s quite hairy. There’s barely 20cm between the mountainous cateyes and a steep muddy verge to my left. Traffic is rinsing past my right at 60mph and giving me no space as if making a point to scare me. No semblance of a bike lane, my Garmin is telling me there’s one more mile of this highway-to-hell so I up the gears and start to pound it.&lt;/p&gt;
+
+&lt;p&gt;Ahead of me I see a squirrel hopping onto the verge, likely after a delicious acorn or discarded McDonald’s straw. As I hurtle towards him at full speed, he is surprised. He has only a split second to decide whether to withdraw to the bushes or take the wild ride across the high-traffic blur. He makes his choice and leaps for the tarmac, but because I’m going so fast, and because I was already so close, he actually leaps into me.&lt;/p&gt;
+
+&lt;p&gt;First he hit my quickly pedaling foot, and like an accidental game of keepie-uppies I boot him to my front wheel which in turn whips him to my front fork. The tire is gripping him but he doesn’t fit through the fork so he’s just a pinball between pedal / wheel / fork over and over again. Neither of us can believe what’s happening until it’s been happening for several rotations. He’s screaming, I’m screaming. I’ve pulled my knees up to my chin but the pedals continue to whiz and whip him round and round. Four by fours continue to blitz past us on our right, one after the other, witness to our frenzy.&lt;/p&gt;
+
+&lt;p&gt;I feel his furry little body brush against my leg as he completes his ferris wheel of terror and gets launched back into the bushes as if I’ve just flicked an elastic band. Finally the mile is up and I turn off the road and dismount.&lt;/p&gt;
+
+&lt;p&gt;In this moment I am brimming with adrenaline and feel like I could lift a car. Where is that poor thing, let me lift a car off of him to make up for what just happened between us.&lt;/p&gt;
+
+&lt;p&gt;I feel guilt, was that a murder? Manslaughter maybe. Squirrel-slaughter.&lt;/p&gt;
+
+&lt;p&gt;I arrive at Cadence and confess to the two behind the counter my crime, but they both hate squirrels and congratulate me. They give me my iced americano for free and I sit on one of their plastic garden chairs and stare at the gravel. I’m not thirsty anymore but I don’t want to be rude so I solemnly sip my drink, expecting to hear the approaching sirens of the RSPCA. I know that my hands are freezing but I am numb to the pain, my guilty conscience enveloping my senses.&lt;/p&gt;
+
+&lt;p&gt;I try to carry on with my ride, but each roadkill hisses “for shame” at me as I amble by. Flies dive bomb into my eyeballs after every corner and I have to keep stopping to fish them out. I can feel the creatures of the surrounding forest watching me and I decide to catch a train home; nature knows what I did and I’m not welcome there today.&lt;/p&gt;
+
+&lt;p&gt;In the evening I have a first date and reveal my sin when she asks about my day. Instead of retribution it goes down a storm; “look I’m sporty and can alpha the natural world”. She laps up the story like it’s a comedy bit and the date is a major success. I just want to have to face some kind of consequence for what I did to that tiny squirrel.&lt;/p&gt;
+
+&lt;p&gt;On our second date she gives me a laminated certificate telling me a red squirrel has been adopted in my name, and it makes me feel a little bit better.&lt;/p&gt;
+
+          </description>
+          <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+          <link>https://thelemonsqueezy.github.io/stories/2024/01/10/the-squirrel-incident-transcript.html</link>
+          <guid isPermaLink="true">https://thelemonsqueezy.github.io/stories/2024/01/10/the-squirrel-incident-transcript.html</guid>
+          
+          
+          <category>Stories</category>
+          
+        </item>
+      
+    
   </channel>
 </rss>
