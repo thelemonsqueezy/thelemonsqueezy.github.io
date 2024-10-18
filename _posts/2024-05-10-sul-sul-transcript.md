@@ -8,6 +8,7 @@ rating:
 image: ''
 
 ---
+
 I was sure there was a ladder when I jumped in, she thought, as she started comparing the tiled walls towering above her to flat shiny everests. She’s been slowly realising what a dangerous pastime “swimming” really is; submerging oneself in a foreign and unsurvivable landscape not suited to her silly oxygen-hungry lungs. If she had managed to climb out after a few minutes, this thought would have been quickly forgotten and she’d be cannon-balling back in the pool tomorrow for her daily laps, but she’s been treading water for 3 hours now. She notices a beetle on its back careening past her on a wave from her thrashing body, and sees that her and that turtling little pest are in the same, unfortunately metaphorical, boat. 
 
 
